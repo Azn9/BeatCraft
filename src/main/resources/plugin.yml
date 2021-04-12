@@ -1,0 +1,7 @@
+name: Beatcraft
+version: @version@
+main: dev.azn9.beatcraft.Beatcraft
+api-version: 1.16
+commands:
+  load:
+  play:
