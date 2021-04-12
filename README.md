@@ -4,6 +4,8 @@
 
 Map : https://azn9.dev/uploads/beatcraft.zip
 
+Example : https://youtu.be/X_1MVWu3_jI
+
 ## How to use ?
 
 1. Place the plugin in the "plugins" folder
